@@ -1,0 +1,46 @@
+{
+  "departments": [
+    {
+      "name": "Operations",
+      "totalEmployees": 92,
+      "localEmployees": 57,
+      "monthlyPayroll": 718000,
+      "vacancies": 3
+    },
+    {
+      "name": "Sales",
+      "totalEmployees": 70,
+      "localEmployees": 41,
+      "monthlyPayroll": 536000,
+      "vacancies": 5
+    },
+    {
+      "name": "Finance",
+      "totalEmployees": 46,
+      "localEmployees": 28,
+      "monthlyPayroll": 412000,
+      "vacancies": 1
+    },
+    {
+      "name": "HR",
+      "totalEmployees": 28,
+      "localEmployees": 17,
+      "monthlyPayroll": 247000,
+      "vacancies": 0
+    },
+    {
+      "name": "IT",
+      "totalEmployees": 51,
+      "localEmployees": 19,
+      "monthlyPayroll": 501000,
+      "vacancies": 4
+    },
+    {
+      "name": "Logistics",
+      "totalEmployees": 58,
+      "localEmployees": 29,
+      "monthlyPayroll": 429000,
+      "vacancies": 2
+    }
+  ]
+}

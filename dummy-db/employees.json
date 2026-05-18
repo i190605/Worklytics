@@ -1,0 +1,64 @@
+{
+  "employees": [
+    {
+      "id": "EMP-1001",
+      "name": "Ahmed Khan",
+      "department": "Operations",
+      "position": "Operations Supervisor",
+      "status": "Active",
+      "joinDate": "2022-01-14",
+      "salary": 8600,
+      "attendanceRate": 97
+    },
+    {
+      "id": "EMP-1002",
+      "name": "Sara Ali",
+      "department": "Sales",
+      "position": "Account Executive",
+      "status": "Active",
+      "joinDate": "2021-09-06",
+      "salary": 7900,
+      "attendanceRate": 95
+    },
+    {
+      "id": "EMP-1003",
+      "name": "Faisal Mahmood",
+      "department": "Finance",
+      "position": "Financial Analyst",
+      "status": "On Leave",
+      "joinDate": "2020-03-22",
+      "salary": 9200,
+      "attendanceRate": 90
+    },
+    {
+      "id": "EMP-1004",
+      "name": "Noura Ibrahim",
+      "department": "HR",
+      "position": "HR Specialist",
+      "status": "Active",
+      "joinDate": "2023-02-10",
+      "salary": 6800,
+      "attendanceRate": 98
+    },
+    {
+      "id": "EMP-1005",
+      "name": "Bilal Hassan",
+      "department": "IT",
+      "position": "Systems Engineer",
+      "status": "Active",
+      "joinDate": "2019-11-30",
+      "salary": 9800,
+      "attendanceRate": 93
+    },
+    {
+      "id": "EMP-1006",
+      "name": "Maha Tariq",
+      "department": "Logistics",
+      "position": "Logistics Coordinator",
+      "status": "Probation",
+      "joinDate": "2025-01-12",
+      "salary": 6100,
+      "attendanceRate": 91
+    }
+  ]
+}

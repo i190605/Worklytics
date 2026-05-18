@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": "u-admin-1",
+      "name": "Alex Morgan",
+      "email": "admin@worklytics.com",
+      "role": "admin",
+      "passwordHash": "48f1051fd3f0e5ddef0476a6866d2c09d54874bc398e605c09abb37205a34ca3"
+    },
+    {
+      "id": "u-hr-1",
+      "name": "Jordan Lee",
+      "email": "hr@worklytics.com",
+      "role": "hr",
+      "passwordHash": "e406ddce5b1e00dd0aca55d0943f23fc1a0cfb60f06954ce8acd295293ed67ba"
+    },
+    {
+      "id": "u-mgr-1",
+      "name": "Sam Rivera",
+      "email": "manager@worklytics.com",
+      "role": "manager",
+      "department": "Operations",
+      "passwordHash": "d258ef80e2b74d72bb60ea37bec383e8a289f5329bd938915a7609073d85dfbe"
+    }
+  ]
+}

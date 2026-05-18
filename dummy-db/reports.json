@@ -1,0 +1,32 @@
+{
+  "reports": [
+    {
+      "id": "REP-9001",
+      "name": "Monthly Payroll Summary",
+      "category": "Payroll",
+      "generatedAt": "2026-04-01T08:00:00Z",
+      "status": "Ready"
+    },
+    {
+      "id": "REP-9002",
+      "name": "Attendance Variance Report",
+      "category": "Attendance",
+      "generatedAt": "2026-04-03T09:30:00Z",
+      "status": "Ready"
+    },
+    {
+      "id": "REP-9003",
+      "name": "Saudization Compliance Snapshot",
+      "category": "Compliance",
+      "generatedAt": "2026-04-05T11:15:00Z",
+      "status": "Ready"
+    },
+    {
+      "id": "REP-9004",
+      "name": "Headcount Movement",
+      "category": "Workforce",
+      "generatedAt": "2026-04-08T13:40:00Z",
+      "status": "Processing"
+    }
+  ]
+}

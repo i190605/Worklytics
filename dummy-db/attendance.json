@@ -1,0 +1,39 @@
+{
+  "attendance": [
+    {
+      "department": "Operations",
+      "present": 88,
+      "absent": 4,
+      "late": 6,
+      "attendanceRate": 95.7
+    },
+    {
+      "department": "Sales",
+      "present": 66,
+      "absent": 2,
+      "late": 5,
+      "attendanceRate": 94.3
+    },
+    {
+      "department": "Finance",
+      "present": 43,
+      "absent": 1,
+      "late": 2,
+      "attendanceRate": 95.6
+    },
+    {
+      "department": "HR",
+      "present": 27,
+      "absent": 0,
+      "late": 1,
+      "attendanceRate": 96.4
+    },
+    {
+      "department": "IT",
+      "present": 47,
+      "absent": 2,
+      "late": 4,
+      "attendanceRate": 92.2
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "approvals": [
+    {
+      "id": "APR-1001",
+      "type": "Leave Request",
+      "employee": "Ahmed Khan",
+      "department": "Operations",
+      "requestedOn": "2026-04-18",
+      "details": "Annual leave (3 days)",
+      "status": "Pending",
+      "priority": "Medium"
+    },
+    {
+      "id": "APR-1002",
+      "type": "Payroll Exception",
+      "employee": "Sara Ali",
+      "department": "Sales",
+      "requestedOn": "2026-04-19",
+      "details": "Incentive adjustment + overtime",
+      "status": "Pending",
+      "priority": "High"
+    },
+    {
+      "id": "APR-1003",
+      "type": "Leave Request",
+      "employee": "Reem Malik",
+      "department": "HR",
+      "requestedOn": "2026-04-16",
+      "details": "Sick leave (2 days)",
+      "status": "Approved",
+      "priority": "Low"
+    },
+    {
+      "id": "APR-1004",
+      "type": "Payroll Exception",
+      "employee": "Omar Nadeem",
+      "department": "IT",
+      "requestedOn": "2026-04-17",
+      "details": "Missing transport allowance",
+      "status": "Rejected",
+      "priority": "Medium"
+    }
+  ]
+}

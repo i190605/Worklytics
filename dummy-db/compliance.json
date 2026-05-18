@@ -1,0 +1,39 @@
+{
+  "compliance": [
+    {
+      "department": "Operations",
+      "localizationRate": 62,
+      "targetRate": 55,
+      "status": "Compliant",
+      "riskLevel": "Low"
+    },
+    {
+      "department": "Sales",
+      "localizationRate": 58.6,
+      "targetRate": 55,
+      "status": "Compliant",
+      "riskLevel": "Low"
+    },
+    {
+      "department": "Finance",
+      "localizationRate": 60.9,
+      "targetRate": 55,
+      "status": "Compliant",
+      "riskLevel": "Low"
+    },
+    {
+      "department": "IT",
+      "localizationRate": 37.3,
+      "targetRate": 55,
+      "status": "At Risk",
+      "riskLevel": "High"
+    },
+    {
+      "department": "Logistics",
+      "localizationRate": 50,
+      "targetRate": 55,
+      "status": "At Risk",
+      "riskLevel": "Medium"
+    }
+  ]
+}

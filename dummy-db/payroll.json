@@ -1,0 +1,49 @@
+{
+  "payroll": [
+    {
+      "month": "2026-01",
+      "department": "Operations",
+      "gross": 718000,
+      "allowances": 86200,
+      "deductions": 38200,
+      "net": 766000,
+      "status": "Processed"
+    },
+    {
+      "month": "2026-01",
+      "department": "Sales",
+      "gross": 536000,
+      "allowances": 64320,
+      "deductions": 28700,
+      "net": 571620,
+      "status": "Processed"
+    },
+    {
+      "month": "2026-01",
+      "department": "Finance",
+      "gross": 412000,
+      "allowances": 49400,
+      "deductions": 24100,
+      "net": 437300,
+      "status": "Processed"
+    },
+    {
+      "month": "2026-01",
+      "department": "HR",
+      "gross": 247000,
+      "allowances": 29640,
+      "deductions": 12300,
+      "net": 264340,
+      "status": "Pending Approval"
+    },
+    {
+      "month": "2026-01",
+      "department": "IT",
+      "gross": 501000,
+      "allowances": 60120,
+      "deductions": 27600,
+      "net": 533520,
+      "status": "Processed"
+    }
+  ]
+}
