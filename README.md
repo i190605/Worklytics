@@ -236,12 +236,3 @@ Detailed project documentation and business pitch are available in:
 This includes architecture, module-level explanation, business value proposition, implementation roadmap, and a ready stakeholder pitch narrative.
 
 ---
-
-## 11) Recommended Next Enhancements
-
-- Real backend (Node/Nest/Express) + database
-- SSO (Azure AD/Okta) and RBAC expansion
-- Arabic localization and bilingual UI
-- PDF reporting and scheduled email digests
-- Predictive compliance and hiring forecast models
-
