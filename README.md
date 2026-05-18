@@ -1,6 +1,30 @@
-# Worklytics Saudization & Payroll Intelligence Dashboard
+<p align="center">
+  <img src="src/assets/worklytics-logo.png" alt="Worklytics Logo" width="140" />
+</p>
 
-Enterprise-ready React dashboard for **Saudization compliance, workforce analytics, payroll visibility, and HR operations**.
+<h1 align="center">Worklytics</h1>
+
+<p align="center">
+  <b>Saudization & Payroll Intelligence Dashboard</b><br/>
+  Enterprise-ready React platform for compliance, workforce analytics, payroll visibility, and HR operations.
+</p>
+
+<p align="center">
+  <img alt="React" src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white">
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-8-646CFF?logo=vite&logoColor=white">
+  <img alt="Status" src="https://img.shields.io/badge/Status-Active-success">
+  <img alt="License" src="https://img.shields.io/badge/License-MIT-blue">
+</p>
+
+---
+
+## ✨ Highlights
+
+- 🔐 Role-based authentication (`admin`, `hr`, `manager`)
+- 📊 Live Saudization KPI dashboard with filtering + export
+- 👥 HR module screens (Employees, Payroll, Attendance, Compliance, Reports)
+- 🤖 Smart HR Copilot assistant widget
+- ⚡ Embedded mock API via Vite middleware (no separate backend needed)
 
 This project provides:
 - Role-based login and session restore
